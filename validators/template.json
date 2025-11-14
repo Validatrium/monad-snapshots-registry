@@ -1,0 +1,12 @@
+{
+  "validator": "YOUR_VALIDATOR_NAME",
+  "network": "monad-testnet",
+  "snapshot": {
+    "block": 0,
+    "url": "https://example.com/snapshots/monad-testnet-<HEIGHT>.tar.lz4",
+    "checksum_url": "https://example.com/snapshots/monad-testnet-<HEIGHT>.tar.lz4.sha256",
+    "size": "0G",
+    "compression": "tar.lz4",
+    "updated_at": "2025-01-01T00:00:00Z"
+  }
+}

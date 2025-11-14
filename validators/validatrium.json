@@ -1,0 +1,12 @@
+{
+  "validator": "Validatrium",
+  "network": "monad-testnet",
+  "snapshot": {
+    "block": 49170993,
+    "url": "https://snap.validatrium.com/monad-testnet/48966303_backup_20251112.tar.lz4",
+    "checksum_url": "https://snap.validatrium.com/monad-testnet/48966303_backup_20251112.tar.lz4 -O latest.tar.lz4.sha256",
+    "size": "66.9 GB",
+    "compression": "tar.lz4",
+    "updated_at": "2025-11-13T11:42:00Z"
+  }
+}
