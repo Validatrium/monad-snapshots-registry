@@ -2,11 +2,11 @@
   "validator": "Synergy Nodes",
   "network": "monad-mainnet",
   "snapshot": {
-    "block": 45302781,
-    "url": "https://support.synergynodes.com/snapshots/monad_mainnet/monad_45302781.tar.lz4",
-    "checksum_url": "https://support.synergynodes.com/snapshots/monad_mainnet/monad_45302781.tar.lz4.sha256",
+    "block": 45320762,
+    "url": "https://support.synergynodes.com/snapshots/monad_mainnet/monad_45320762.tar.lz4",
+    "checksum_url": "https://support.synergynodes.com/snapshots/monad_mainnet/monad_45320762.tar.lz4.sha256",
     "size": "1.79GiB",
     "compression": "tar.lz4",
-    "updated_at": "2025-12-29T23:01:51Z"
+    "updated_at": "2025-12-30T01:01:59Z"
   }
 }
