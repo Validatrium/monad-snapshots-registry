@@ -1,0 +1,12 @@
+{
+  "validator": "Natsai",
+  "network": "monad-mainnet",
+  "snapshot": {
+    "block": 56410771,
+    "url": "https://snapshots.monad.natsai.xyz/monad_mainnet/monad_56410771.tar.lz4",
+    "checksum_url": "https://snapshots.monad.natsai.xyz/monad_mainnet/monad_56410771.tar.lz4.sha256",
+    "size": "2.40GB",
+    "compression": "tar.lz4",
+    "updated_at": "2026-02-19T13:25:16Z"
+  }
+}
