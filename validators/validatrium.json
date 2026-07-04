@@ -1,13 +1,13 @@
 {
   "validator": "Validatrium",
-  "network": "monad-mainnet",
+  "network": "monad-testnet",
   "snapshot": {
-    "block": 85522921,
-    "url": "https://snap.validatrium.com/monad/85522921_backup_mainnet_20260704.tar.zst",
-    "checksum_url": "https://snap.validatrium.com/monad/85522921_backup_mainnet_20260704.tar.zst.sha256",
-    "size": "4.9GiB",
-    "size_bytes": 5232721934,
+    "block": 42381615,
+    "url": "https://snap.validatrium.com/monad/42381615_backup_testnet_20260704.tar.zst",
+    "checksum_url": "https://snap.validatrium.com/monad/42381615_backup_testnet_20260704.tar.zst.sha256",
+    "size": "2.2GiB",
+    "size_bytes": 2292765343,
     "compression": "tar.zst",
-    "updated_at": "2026-07-04T10:08:00Z"
+    "updated_at": "2026-07-04T16:17:44Z"
   }
 }
